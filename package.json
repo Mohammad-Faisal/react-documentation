@@ -1,5 +1,5 @@
 {
-  "name": "untitled1",
+  "name": "reactdocumentation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "react-styleguidist": "^11.1.5",
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
